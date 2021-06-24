@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_BNM_CURS", "WPF_BNM_CURS.csproj", "{A227782D-F7F9-4EA5-BA4B-3EBA9F94591B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A227782D-F7F9-4EA5-BA4B-3EBA9F94591B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A227782D-F7F9-4EA5-BA4B-3EBA9F94591B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A227782D-F7F9-4EA5-BA4B-3EBA9F94591B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A227782D-F7F9-4EA5-BA4B-3EBA9F94591B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9E96CE-1D92-47BB-B0A2-8B4C6D6C887C}
+	EndGlobalSection
+EndGlobal
